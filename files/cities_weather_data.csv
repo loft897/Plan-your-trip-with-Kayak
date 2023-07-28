@@ -1,0 +1,36 @@
+cities,latitude,longitude,main_weather_7days,rain_amount_7days,temp_7days,clouds_7days,quality
+Bormes les Mimosas,43.15,6.34,Clear,0,28,19,51.25
+Aups,43.63,6.23,Clouds,1,29,23,50.25
+Cassis,43.21,5.54,Clear,2,27,19,45.25
+Marseille,43.3,5.37,Clear,3,27,20,43.0
+Nimes,43.84,4.36,Clear,5,30,38,40.5
+Aix en Provence,43.53,5.45,Clear,6,29,26,39.5
+Collioure,42.53,3.08,Rain,5,27,29,36.75
+Avignon,43.95,4.81,Clear,8,30,37,34.75
+Aigues Mortes,43.57,4.19,Clouds,6,27,36,33.0
+Uzes,44.01,4.42,Clear,9,30,36,33.0
+Carcassonne,43.21,2.35,Rain,6,28,47,32.25
+Toulouse,43.6,1.44,Rain,5,26,63,26.25
+Montauban,44.02,1.35,Rain,5,25,57,25.75
+Saintes Maries de la mer,43.45,4.43,Clear,11,26,36,21.0
+Foix,42.96,1.61,Rain,7,24,64,18.0
+Dijon,47.32,5.04,Rain,8,24,57,17.75
+La Rochelle,46.16,-1.15,Rain,6,20,68,11.0
+Eguisheim,48.04,7.31,Rain,16,23,73,-4.25
+Besancon,47.24,6.02,Rain,17,22,61,-5.25
+Grenoble,45.19,5.74,Rain,24,26,44,-7.0
+Colmar,48.08,7.36,Rain,19,23,73,-10.25
+Lyon,45.76,4.83,Rain,25,25,54,-13.5
+Bayonne,43.49,-1.47,Rain,23,22,55,-15.75
+Biarritz,43.47,-1.55,Rain,22,21,55,-15.75
+Paris,48.85,2.35,Clouds,19,21,82,-16.5
+Chateau du Haut Koenigsbourg,48.25,7.34,Rain,19,19,79,-19.75
+Amiens,49.89,2.3,Rain,24,20,82,-28.5
+St Malo,48.65,-2.03,Rain,25,19,68,-29.0
+Bayeux,49.28,-0.7,Rain,29,20,81,-38.25
+Mont Saint Michel,48.64,-1.51,Rain,30,20,75,-38.75
+Lille,50.64,3.06,Rain,31,20,79,-41.75
+Strasbourg,48.58,7.75,Rain,34,23,83,-42.75
+Rouen,49.44,1.09,Rain,36,20,78,-51.5
+Annecy,45.9,6.13,Rain,44,24,47,-51.75
+Le Havre,49.49,0.11,Rain,43,19,75,-66.75
